@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Pemrograman Python documentation build configuration file, created by
+# Pemrograman Python build configuration file, created by
 # sphinx-quickstart on Sun Nov 18 19:47:05 2018.
 #
 # This file is execfile()d with the current directory set to its
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PemrogramanPython.tex', 'Pemrograman Python Documentation',
+    (master_doc, 'PemrogramanPython.tex', 'Pemrograman Python',
      'Fadjar Fathurrahman dan Mariya Al Qibtiya Nasution', 'manual'),
 ]
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pemrogramanpython', 'Pemrograman Python Documentation',
+    (master_doc, 'pemrogramanpython', 'Pemrograman Python',
      [author], 1)
 ]
 
@@ -149,7 +149,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PemrogramanPython', 'Pemrograman Python Documentation',
+    (master_doc, 'PemrogramanPython', 'Pemrograman Python',
      author, 'PemrogramanPython', 'One line description of project.',
      'Miscellaneous'),
 ]
