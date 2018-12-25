@@ -12,6 +12,7 @@ Pemrograman Python
 
    Pendahuluan.rst
    TestRST.rst
+   CobaCoba.rst
 
 
 Indices and tables
